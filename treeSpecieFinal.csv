@@ -1,0 +1,264 @@
+name,markerColor
+Ninebark,#A45260
+AborvitaeHedge ,#BE2FD1
+Acacia,#F08524
+Alder,#FF3C11
+AleppoPine,#182B97
+Almond,#E508DC
+AmericanBeechTree ,#8371BE
+AmericanElm,#8A607C
+Apple,#21E594
+AmericanSycamore ,#812013
+Apple(Crab),#CF845B
+Apricot,#CD5A41
+Arborvitae,#646FA9
+Arbutus,#20728D
+Ash,#181876
+Ash(Black),#0F6BE2
+Ash(Green),#DBE521
+Ash(White),#1FD158
+AusTree,#341799
+Azaleas,#4957C5
+Azelia,#1FE295
+BalsamFir,#EFC969
+BalsamPoplar,#C2B025
+Barberrry,#A4F51F
+Basswood,#544B7E
+Bayberry,#714256
+Beech,#2A5E3F
+Beech(Blue),#8483F0
+Beech(Purple),#B0D593
+Berry(Service),#9FCA5D
+BigtoothAspen ,#7EB034
+Birch,#80973D
+Birch(Paper),#5E5951
+Birch(River),#14597A
+Birch(White),#C47B29
+BushesandShrubs ,#20481A
+Butternut,#CF74AB
+CaliforniaFanPalm ,#F32128
+Catalpa,#AFA3C4
+Cedar,#F65D58
+Cherry,#0F07BA
+Cherry(Bing),#32518F
+Cherry(Black),#CA7CF4
+Cherry(Fruit),#5A08E4
+Cherry(ornamental)  ,#82F78A
+Cherry(Quansam),#6B5BA3
+Cherry(Weeping),#545EDC
+Cherry(Choke),#91DA0C
+Chestnut,#AE0576
+Chinaberry,#DA0D98
+ColumnerTri Color Maple,#8A3AB6
+CommonHackberry ,#179311
+ConcolorFir,#8BFAF1
+CorkscrewWeeping Willow,#CA90E0
+Cotoneaster,#8766D8
+Cottonwood,#B51BAF
+Cypress,#457F07
+Cypress(Bald),#2AEF38
+Cypress(False),#DF1F82
+DebrisPile(Brush),#08490B
+ DebrisPile(Wood),#4F80EB
+DebrisPile(Woodand Brush),#642235
+Dogwood,#89AC43
+Dogwood(Clump) ,#433CE0
+Douglasfir,#B40685
+EasternCottonwood ,#03AA59
+EasternWhiteCedar ,#0ADD9B
+EasternWhitePine ,#7AC055
+Elder,#B9AF37
+Elder(Box),#82865F
+Elderberry,#4D4CE6
+Elm,#8BA6AC
+Elm(American),#7AE51B
+Elm(Chinese),#F19262
+Elm(Ornamental) ,#6D341E
+Elm(Rock),#F4DDC8
+Elm(Siberian),#C8FAB1
+Euonymus,#6A7DD9
+Euonymus(Burning Bush),#F72002
+Evergreen,#061FEE
+Fir,#15583D
+Fir(Douglas),#67B7B2
+Fir(Balsam),#0786FE
+FloweringCrabapple ,#456699
+FloweringPlum ,#1D615A
+Forsythia,#4CB479
+Ginko,#67DEEC
+Gum,#CCB10E
+Gum(Sweet),#AB24FA
+Hackberry,#D569B9
+Hawthorn,#173E8C
+Hazelnut,#644EED
+Hedge,#221F5B
+Hemlock,#34C2B3
+Hemlock(Eastern) ,#5FF264
+Hemlock(Western),#D7DB89
+Hemlock(Mountain),#DCED22
+Hickory,#80200E
+Hickory(Mockernut) ,#1F4C5A
+Hickory(Pignut),#7595DE
+Hickory(Bitternut) ,#6E2AD1
+Hickory(Shagbark),#9D22A9
+Hickory(Shellbark) ,#F72E36
+Holly,#5DD630
+Honeylocust,#58E7ED
+HoneySuckle,#D19A88
+Hophornbeam,#49F408
+Hornbeam,#EFF129
+Horsechestnut,#07B5B6
+Hydrangea,#ACF6CE
+Ironwood,#7A2BAE
+Japanese Flowering Crabapple,#6BDAF9
+JapaneseZelkova ,#C44E6E
+Juniper,#870643
+Juniper(BlueRug) ,#84E0F7
+Juniper(Compact),#1D2D29
+Juniper(Pyramidal),#763724
+Juniper(Upright)  ,#12B836
+KentuckyCoffeetree,#3DFD46
+KousaDogwood,#F68E22
+Larch,#2B6052
+Laurel,#C797B6
+Lilac,#5265F0
+Lilac Tree,#7996B8
+Linden,#DDE10A
+LittleleafLinden,#1662BF
+Locust,#53E2B1
+Locust(Black),#B1C108
+Locust(Honey),#876BB6
+Locust(Sunburst) ,#52014C
+LocustAndCherry ,#0CC02C
+Magnolia,#178F03
+ManitobaMaple,#A3752B
+Maple,#532582
+Maple(CrimsonKing) ,#1C92D2
+Maple(CrimsonRed),#E5BE4E
+Maple(Crimson),#2E1179
+Maple(Hard),#D5082D
+Maple(Japanese) ,#B4B999
+Maple(Linden),#FB967E
+Maple(Norway),#B1CA33
+Maple(Red),#B7EB18
+Maple(Silver),#171E92
+Maple(Soft),#2E4B25
+Maple(Sugar),#E16185
+Maple(Black),#A31A21
+Maple (Boxelder) ,#B1552A
+Mimosa,#245584
+Mixed Species,#4CB79B
+Mock Orange,#FE4359
+Mountain Ash,#704ED0
+Mountain Laurel ,#1F0D7D
+Muberry,#194AD8
+Mulberry,#535E3D
+Myrtle,#4612DA
+Nectarine,#1C6F0B
+Northern Catalpa ,#7A4070
+Oak,#337A1D
+Oak (Black),#280100
+Oak (Bur),#D73D86
+Oak (Chinqeapin) ,#0F5122
+Oak (Pin),#FCD513
+Oak (Red),#2E76E7
+Oak (White),#10E89E
+Oleaster,#9AAB7B
+Olive,#3445EB
+,#AEFA47
+Olive (Russian) ,#CA67B8
+Orange,#D9128A
+Ornamental Grass ,#979D66
+Osage Orange,#C9E337
+Paw Paw,#70A3A7
+Paper Birch,#DEBA40
+Peach,#D319A7
+Pear,#CFCB67
+Pear (Bradford) ,#2A3593
+Pecan,#91F789
+Persimmon,#5D3B0E
+Pignut Hickory ,#16340D
+Pin Oak,#BA066D
+Pinapple,#23D45F
+Pine,#EA28DC
+Pine (Austrian) ,#56AF10
+Pine (Jack),#6B76A9
+Pine (Muhgo),#DF57CC
+Pine (Red),#277E39
+Pine (Scotch),#F2C06E
+Pine (White),#F61004
+Pine (Bristlecone),#1DA84A
+Plum,#53CD48
+Plum (Purple),#C3777E
+Poplar,#94A9D3
+Poplar (Lombardy) ,#F3F7A0
+Poplar (tulip),#8EF82D
+Poplar (Yellow) ,#9FE0B9
+Privet,#C1AA9B
+Prunus Unknown,#2E4EB6
+Pyrocantha,#F34C96
+Raintree,#FAC7AF
+Red Bud,#5546B4
+Redbud,#FF3EC0
+Redwood,#6D16BB
+Rhododendron,#DF746D
+Rose,#B795CF
+Rose of Sharon ,#3B92DC
+Sassafras,#99A928
+Scattered Brush and Wood,#FF3E6E
+Serviceberrry,#4529DB
+Silver bell,#6AEC22
+Silver Maple,#E46D31
+Smoke Tree,#7BB3CC
+Soapberry,#B4E9C6
+Sourwood,#43BE72
+Spindle tree,#237BC8
+Spirea,#3AC9C2
+Spruce,#5159EE
+Spruce (Alberta)  ,#8682B8
+Spruce (Birds Nest),#5E77C7
+Spruce (Blue),#7FD53F
+Spruce (Brown) ,#28DE1E
+Spruce (Green),#3C5BB8
+Spruce (Norway),#63558B
+Stump,#3D0EB2
+Sugar Maple,#5E24CA
+Sumac,#994051
+Sweet gum,#132368
+Sycamore,#BDD25E
+Tamarack,#026BB3
+Tamarind,#6BB3D2
+Trailing Arbutus  ,#323271
+Tree of Heaven,#DB775A
+Tricolor Beech,#49A1BE
+Tulip tree,#78A493
+Unidentified Species ,#9B9D66
+Unknown,#C7CEC1
+Unspecified,#497D81
+Various Bushes ,#C9F4AE
+Various Species,#0201E7
+General Clearance,#8D0184
+Various Trees,#6CF5DD
+Viburnum,#871E2E
+Vine,#CCD3C3
+Walnut,#258AE7
+Walnut (Black),#0CF578
+Walnut (English) ,#1E0ECE
+Weeping Lace Leaf,#C9612E
+Weigela,#C7D715
+Wheeping Cedar,#65CE12
+Wheeping Cherry,#399472
+Willow,#AE17F1
+Willow (Pussy),#35E2F3
+Willow (Weeping),#5A8981
+Willow Tree,#AD8B83
+Winterberry,#61ED6C
+Wisteria,#137625
+Witch hazel,#8C296D
+Yellow-Poplar Tulip Tree ,#F71349
+Yellowwood,#89EDB5
+Yew,#8BD2EA
+Yew (Compact),#BDFD36
+Yew (Upright),#1F2FEA
+Yew Hedge,#61B445
+Zelkova,#A0A414
